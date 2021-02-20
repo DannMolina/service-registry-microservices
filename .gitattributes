@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+=======
+# Auto detect text files and perform LF normalization
+# * text=auto
+# *.js text
+>>>>>>> 28f2df20cda596b02e4fd1e4f9b9ff34c8a9777f
+*.js linguist-detectable=true
